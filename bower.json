@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "pages_theme_modernizr_custom",
+  "version": "2.8.3",
+  "homepage": "https://github.com/fxckdead/pages-theme-modernizr",
+  "authors": [
+    "Christian <christian.parrita@gmail.com>"
+  ],
+  "description": "custom modernizr 2.8.3",
+  "main": "modernizr.custom.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
